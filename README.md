@@ -1,3 +1,5 @@
+> **Estudo concluído.** Este repositório faz parte de uma série de seis estudos baseados em livro. Consulte o [índice da série](https://github.com/JVCSampaio/data-science-projects) e o [portfólio](https://github.com/JVCSampaio) para os projetos em destaque.
+
 # Projeto 3 — Regressão Logística Multivariada
 
 Regressão logística com **todas as características** do dataset, com estudo da função sigmoid e da superfície de decisão em duas dimensões.
